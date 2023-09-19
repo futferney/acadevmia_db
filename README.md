@@ -9,7 +9,7 @@
 <div align="center">
 
 LINK
-acadevmiadb-production.up.railway.app
+https://acadevmiadb-production.up.railway.app/
 
 
 
